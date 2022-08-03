@@ -1,6 +1,6 @@
 # Proyecto Frontend Mentor - Diseño de preview de NFT
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the NFT preview card component coding challenge](./design/finished.jpg)
 
 ## Mi primer repositorio
 
