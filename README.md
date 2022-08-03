@@ -6,7 +6,7 @@
 
 Este es mi primer proyecto realizado para una pagina web, en este caso [Frontend Mentor](https://www.frontendmentor.io).
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**Para hacer este respositorio, estuve realizando cursos online de HTML y CSS para aprender los conocimientos basicos.**
 
 ## El desafío
 
