@@ -130,11 +130,12 @@ body{
     justify-content: flex-start;
 }
 
-.precio h4{
+.precio h3{
     font-size: 16px;
     color: hsl(178, 100%, 50%); 
-    letter-spacing: 0.6px;
+    letter-spacing: 1.2px;
 }
+
 
 .precio img{
     margin-right: 5px;
